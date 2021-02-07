@@ -1,6 +1,6 @@
 {
   "name": "AltApp",
-  "identifier": "https://raw.githubusercontent.com/Coolayaa/AltstoreRepo/main/altappe",
+  "identifier": "com.github.source",
   "apps": [
     {
       "name": "Bloons TD 6",
